@@ -10,7 +10,7 @@ dataSources:
     name: ENSRegistry
     network: rinkeby
     source:
-      address: '0x5bFE6607EB1d59735eabf9C565A85F220d391C17'
+      address: '0x5bFE6607EB1d59735eabf9C565A85F220d391C17' #this ens instance has .tea as tld
       abi: EnsRegistry
       startBlock: 8458004 
     mapping:
